@@ -1,0 +1,13 @@
+B:\dangan3files\Program\ConvertCharact\bin\Debug\netcoreapp3.1\ConvertCharact.exe
+B:\dangan3files\Program\ConvertCharact\bin\Debug\netcoreapp3.1\ConvertCharact.deps.json
+B:\dangan3files\Program\ConvertCharact\bin\Debug\netcoreapp3.1\ConvertCharact.runtimeconfig.json
+B:\dangan3files\Program\ConvertCharact\bin\Debug\netcoreapp3.1\ConvertCharact.runtimeconfig.dev.json
+B:\dangan3files\Program\ConvertCharact\bin\Debug\netcoreapp3.1\ConvertCharact.dll
+B:\dangan3files\Program\ConvertCharact\bin\Debug\netcoreapp3.1\ConvertCharact.pdb
+B:\dangan3files\Program\ConvertCharact\obj\Debug\netcoreapp3.1\ConvertCharact.csprojAssemblyReference.cache
+B:\dangan3files\Program\ConvertCharact\obj\Debug\netcoreapp3.1\ConvertCharact.csproj.CoreCompileInputs.cache
+B:\dangan3files\Program\ConvertCharact\obj\Debug\netcoreapp3.1\ConvertCharact.AssemblyInfoInputs.cache
+B:\dangan3files\Program\ConvertCharact\obj\Debug\netcoreapp3.1\ConvertCharact.AssemblyInfo.cs
+B:\dangan3files\Program\ConvertCharact\obj\Debug\netcoreapp3.1\ConvertCharact.dll
+B:\dangan3files\Program\ConvertCharact\obj\Debug\netcoreapp3.1\ConvertCharact.pdb
+B:\dangan3files\Program\ConvertCharact\obj\Debug\netcoreapp3.1\ConvertCharact.genruntimeconfig.cache
